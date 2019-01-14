@@ -1,0 +1,154 @@
+body {
+
+
+
+    background-image: url(fond.jpg);
+    background-position: center;
+    background-size: cover;
+    font-family: monospace;
+
+}
+
+#home {
+
+    text-align: center;
+    background-color: #78B4B6;
+    background-size: cover;
+    font-size: 20px;
+    margin: 10px 7%;
+}
+
+
+input[type='button'] {
+    padding: 20px 20px;
+
+    border: none;
+
+    outline: none;
+
+    background-color: transparent;
+
+    cursor: pointer;
+
+    font-size: 30px;
+
+    
+
+}
+
+
+#plus {
+
+
+    margin-top: 15px;
+
+}
+
+
+#player0 {
+
+    
+    margin-right: 70%;
+    font-size: 35px;
+    
+}
+
+.player-1-panel{
+    
+
+margin-top: 140px;
+    
+    
+}
+
+
+#player1 {
+
+    margin-left: 70%;
+    margin-top: -430px;
+
+    font-size: 35px;
+}
+
+
+#player0-score {
+
+
+    margin-right: 70%;
+    font-size: 65px;
+
+
+
+}
+
+#player1-score {
+
+
+    margin-left: 70%;
+    font-size: 65px;
+
+
+
+}
+
+#current-p0 {
+
+    margin-right: 70%;
+    font-size: 30px;
+
+    border: solid 1px;
+    
+    background-color: bisque;
+    margin-top: 15px;
+}
+
+#current-p1 {
+    
+    margin-left: 70%;
+    font-size: 30px;
+
+    border: solid 1px;
+    background-color: bisque;
+    margin-top: 10px
+}
+
+
+
+
+#botom {
+
+
+    margin-top: 200px;
+
+
+}
+
+
+#dice-1 {
+
+    margin-top: -100px;
+    width: 150px;
+    height: 150px;
+
+}
+
+
+
+
+#player-0-turn {
+    font-weight: bold;
+    margin-right: 70%;
+    font-size: 27px;
+    color: darkgreen;
+
+
+}
+
+#player-1-turn {
+    font-weight: bold;
+    margin-left: 70%;
+    font-size: 27px;
+    color: darkgreen;
+    
+
+}
